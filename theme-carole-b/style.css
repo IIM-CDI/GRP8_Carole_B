@@ -1,0 +1,36 @@
+/* 
+Theme Name : Carole B
+Author: Carole B
+Version: 1.0
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    color: red;
+}
+
+a:link, a:visited {
+    color: rgb(195, 33, 33);
+}
+
+p {
+    line-height: 1.65em;
+}
+
+/* General Layout */
+div.container {
+    max-width: 920px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Header */
+.site-header {
+    border-bottom: 2px solid #ccc;
+}
+
+.site-footer {
+    border-top: 2px solid #ccc;
+    margin-top: 30px;
+}
